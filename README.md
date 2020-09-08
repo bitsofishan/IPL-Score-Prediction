@@ -1,4 +1,4 @@
 # IPL Score Prediction
 
-View the Project here: https://ipl-runs-score-prediction.herokuapp.com/<br>
-estimator used: XGBoostRegressor
+<b>View the Project here:</b> https://ipl-runs-score-prediction.herokuapp.com/<br><br>
+<b>Estimator used:</b> XGBoostRegressor
